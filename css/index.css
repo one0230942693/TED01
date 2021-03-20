@@ -16,6 +16,9 @@ body h1{
     font-weight: bolder;
     margin: 100px 0;
 }
+body img{
+    cursor: pointer;
+}
 .header_bg{
     position: fixed;
     width: 100%;
