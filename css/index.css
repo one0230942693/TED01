@@ -221,7 +221,7 @@ footer{
 
 /* RWD */
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
     body{
         font-size: 12px;
     }
