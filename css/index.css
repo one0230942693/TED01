@@ -231,7 +231,7 @@ footer{
     .header_bg ul{
         margin: 0;
         width: 100%;
-        max-width: 270px;
+        max-width: 62%;
     }
     .header_bg a{
         display: none;
