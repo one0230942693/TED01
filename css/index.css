@@ -233,7 +233,7 @@ footer{
         width: 100%;
         max-width: 62%;
     }
-    .header_bg a{
+    .header_bg li{
         display: none;
     }
     .header_bg i{
