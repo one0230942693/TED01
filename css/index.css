@@ -232,13 +232,13 @@ footer{
     .header_bg ul{
         margin: 0;
         width: 100%;
-        max-width: 45vw;
+        max-width: 35vw;
     }
     .header_bg li{
         display: none;
     }
     .header_bg i{
-        font-size: 20px;
+        font-size: 10vw;
         margin: 0 5px;
     }
     .fa-bars{
