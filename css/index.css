@@ -68,7 +68,7 @@ body img{
     justify-content: center;
 }
 .main_about img{
-    margin: 10px 20px;
+    margin: 10px 5px;
     max-width: 400px;
     border-radius: 25px;
 }
@@ -231,7 +231,7 @@ footer{
     .header_bg ul{
         margin: 0;
         width: 100%;
-        max-width: 62%;
+        max-width: 60vw;
     }
     .header_bg li{
         display: none;
@@ -246,14 +246,24 @@ footer{
     .main_about_box{
         display: block;
     }
+    .main_drink_img img{
+        margin: 0 7px;
+        max-width: 30vw;
+    }
+    .main_drink p{
+        font-size: 20px;
+    }
     .Franchise_application_bg{
         display: block;
+    }
+    .Franchise_application_bg img{
+        border-radius: 0;
     }
     .footer_div_all{
         display: block;
     }
     .footer_div_all img{
-        margin: 0 auto;
+        margin: 0 25vw;
     }
 }
 
