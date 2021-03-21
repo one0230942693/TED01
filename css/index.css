@@ -248,8 +248,8 @@ footer{
         display: block;
     }
     .main_about img{
-        max-width: 300px;
-        margin: 0 13vw;
+        max-width: 80vw;
+        margin: 0 11vw;
     }
     .main_drink_img img{
         margin: 0 7px;
