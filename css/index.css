@@ -5,7 +5,7 @@ body{
     font-family: 'Noto Sans TC', sans-serif;
     font-weight: bolder;
     color: #0B3DDF;
-    background-image: url("https://one0230942693.github.io/only_one/img/background.jpg");
+    background-image: url("../img/background.jpg");
     background-size: cover;
 }
 body a{
@@ -181,7 +181,6 @@ footer{
     width: 100%;
     margin: 0 auto;
     display: flex;
-    justify-content: center;
     line-height: 3;
 }
 .footer_div_left img{
@@ -249,10 +248,12 @@ footer{
     }
     .main_about img{
         max-width: 80vw;
-        margin: 0 11vw;
+        display: block;
+        margin: 0 auto;
     }
     .main_drink_img img{
-        margin: 0 7px;
+        display: block;
+        margin: 0 auto;
         max-width: 30vw;
     }
     .main_drink p{
@@ -268,7 +269,11 @@ footer{
         display: block;
     }
     .footer_div_all img{
-        margin: 0 25vw;
+        display: block;
+        margin: 0 auto;
+    }
+    .footer_div_right{
+        width: 100%;
     }
 }
 
